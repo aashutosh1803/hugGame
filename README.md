@@ -34,6 +34,8 @@ npm run build
 
 This creates a `dist` folder. You can drag and drop this folder into **[Netlify Drop](https://app.netlify.com/drop)** for instant hosting!
 
+Hosted at - https://strong-lily-b4b6b3.netlify.app/
+
 ## 🎨 Credits
 - **Icons**: Goofy SVGs procedurally generated.
 - **Sounds**: Public domain funny sound effects.
